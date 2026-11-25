@@ -1,0 +1,25 @@
+{
+  "name": "3D Models Showcase",
+  "short_name": "3D Models Showcase",
+  "description": "3D Models Showcase & Viewer for iPadOS and Web with Local IndexedDB Memory",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0f17",
+  "theme_color": "#0b0f17",
+  "icons": [
+    {
+      "src": "./icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
